@@ -46,8 +46,6 @@ import javax.servlet.http.HttpSession;
  *
  * 文件上传公共类
  *
- * @author  y00356763
- * @version  V100R001C00, 2017年4月27日
  * @see  [相关类/方法]
  * @since  IDP/子系统名/版本
  */
